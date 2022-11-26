@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+I'm a bioengineering student from SWJTU.
+
+[![fjybiocs's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjybiocs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjybiocs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fjybiocs/fjybiocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
