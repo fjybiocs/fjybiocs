@@ -1,8 +1,10 @@
-# Hi there 👋
+## Hi there 👋
 I'm a bioengineering student from SWJTU.
 
+## github stats
 [![fjybiocs's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjybiocs)](https://github.com/anuraghazra/github-readme-stats)
 
+## lang stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjybiocs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
