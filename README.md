@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm a bioengineering student from SWJTU.
 
+My Blog: tpam.top
+
 ## github stats
 [![fjybiocs's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjybiocs)](https://github.com/anuraghazra/github-readme-stats)
 
