@@ -1,26 +1,4 @@
 ## Hi there 👋
-I'm a bioengineering student from SWJTU.
+I'm an AI Infrastructure Engineer (Inference) at Tencent, bioengineering student from Southwest Jiaotong University.
 
 #### My Blog [https://tpam.top](https://tpam.top)
-#### Working on [https://github.com/SWJTU-Spring](https://github.com/SWJTU-Spring)
-
-## github stats
-[![fjybiocs's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjybiocs)](https://github.com/anuraghazra/github-readme-stats)
-
-## lang stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjybiocs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**fjybiocs/fjybiocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
